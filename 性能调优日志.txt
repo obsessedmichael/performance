@@ -20,11 +20,13 @@
 	
 5、多线程并发运算。
 
-8、连接池优化druid . 
-
 6、mysql(分库分表、读写分离)、mycat数据分区、keepalived 负载均衡
 
 7、nginx、F5应用负载均衡。
+
+8、连接池优化druid . 
+
+9、jvm参数调优。
    
    
    
